@@ -1,0 +1,51 @@
+window {
+margin: 0px;
+border: 2px solid #00ffaa;
+background-color: #141414;
+transition: 560ms;
+border-radius: 16px;
+}
+
+#input {
+margin: 5px;
+border: 0px solid #a7ffbc;
+color: #D3C6AA;
+background-color: #2f3b37;
+transition: 560ms;
+border-radius: 12px;
+margin: 8px;
+
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+border-radius: 12px;
+transition: 560ms;
+background-color: #03180f;
+padding: 8px;
+}
+
+#outer-box {
+margin: 5px;
+border: none;
+transition: 560ms;
+background-color: #03120b;
+border-radius: 16px;
+}
+
+#scroll {
+margin: 0px;
+border: none;
+}
+
+#text {
+margin: 5px;
+border: none;
+color: #e9fcff;
+}
+
+#entry:selected {
+background-color: #00704b;
+border-radius: 12px;
+}
