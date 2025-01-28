@@ -1,0 +1,41 @@
+/*A LOT OF COLORS*/
+
+window {
+margin: 0px;
+border: 2px solid #ffc7a7;
+background-color: #00225a;
+}
+
+#input {
+margin: 5px;
+border: 0px solid #f5ffa7;
+color: #c7aad3;
+background-color: #8a7300;
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+background-color: #490062;
+}
+
+#outer-box {
+margin: 5px;
+border: none;
+background-color: #004924;
+}
+
+#scroll {
+margin: 0px;
+border: none;
+}
+
+#text {
+margin: 5px;
+border: none;
+color: #aad3b2;
+}
+
+#entry:selected {
+background-color: #00500d;
+}

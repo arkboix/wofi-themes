@@ -1,0 +1,50 @@
+/* BOGUS SPECIAL - DO NOT USE, UGLY */
+
+window {
+margin: 0px;
+border: 1px solid #ff6200;
+background-color: #ff0000;
+border-radius: 12px;
+}
+
+#input {
+margin: 5px;
+border: none;
+color: #ffffff;
+background-color: #ff2600;
+border-radius: 12px;
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+background-color: #7e4700;
+border-radius: 12px;
+}
+
+#outer-box {
+margin: 5px;
+border: none;
+background-color: #131313;
+}
+
+#scroll {
+margin: 0px;
+border: none;
+}
+
+#text {
+margin: 5px;
+border: none;
+color: #D3C6AA;
+}
+
+#text:selected {
+    color: #101010;
+}
+
+#entry:selected {
+background-color: #b7b7b7;
+border-radius: 12px;
+color: #101010;
+}
