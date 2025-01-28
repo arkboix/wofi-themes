@@ -1,0 +1,46 @@
+/*RED THEME*/
+
+window {
+margin: 0px;
+border: 1px solid #ffcda8;
+background-color: #2f1111;
+border-radius: 12px;
+}
+
+#input {
+margin: 5px;
+border: none;
+color: #D3C6AA;
+border-radius: 12px;
+background-color: #2f1111;
+}
+
+#inner-box {
+margin: 5px;
+border: none;
+border-radius: 12px;
+background-color: #2f1111;
+}
+
+#outer-box {
+margin: 5px;
+border: none;
+border-radius: 12px;
+background-color: #2f1111;
+}
+
+#scroll {
+margin: 0px;
+border: none;
+}
+
+#text {
+margin: 5px;
+border: none;
+color: #D3C6AA;
+}
+
+#entry:selected {
+border-radius: 12px;
+background-color: #491616;
+}
